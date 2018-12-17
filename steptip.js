@@ -1,5 +1,5 @@
 window.onload = function () {
-    document.body.innerHTML += "<link rel='stylesheet' href='steptip.css'>";
+    document.body.innerHTML += "<link rel='stylesheet' href='https://tomocode.github.io/steptipjs/steptip.css'>";
 }
 var steptip = {
     tooltip : function ( ele, msg, ord, mode ) {
