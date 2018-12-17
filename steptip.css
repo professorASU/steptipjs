@@ -1,0 +1,73 @@
+.steptipWrapper {
+    display: inline;
+    padding: 0;
+}
+.steptipBoxDark {
+    position: relative;
+    top: 19px;
+    left: 15px;
+    background: #3a3a3a;
+    border: 1px solid #e8efff;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    color: #fff;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: lighter;
+    display: none;
+    opacity: 0;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+}
+.steptipBoxLight {
+    position: relative;
+    top: 19px;
+    left: 15px;
+    background: #f3f8ff;
+    border: 1px solid #e8efff;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    color: #3a3a3a;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: lighter;
+    display: none;
+    opacity: 0;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+}
+.stepbtn {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    display: block;
+    width: 42px;
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    margin-left: auto;
+    margin-top: 5px;
+}
+.steptiparrowDark {
+    position: relative;
+    top: -37px;
+    left: -17px;
+    transform: rotate(45deg);
+    background: #3a3a3a;
+    height: 15px;
+    width: 15px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+}
+.steptiparrowLight {
+    position: relative;
+    top: -37px;
+    left: -17px;
+    transform: rotate(45deg);
+    background: #f3f8ff;
+    height: 15px;
+    width: 15px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+}
