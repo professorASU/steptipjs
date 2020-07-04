@@ -1,5 +1,5 @@
 # steptip.js
-steptip.js is a lightweight JavaScript tutorial tooltip library.
+steptip.js is a lightweight JavaScript library for adding tooltips for a stylish interactive tutorials.
 
 ### Docs
 **Step 1:**
@@ -8,6 +8,7 @@ Add **steptip.min.js** inside your HTML header
 ```html
 <head>
     <script src="https://tomocode.github.io/steptipjs/steptip.min.js"></script>
+    <link rel="stylesheet" href="https://tomocode.github.io/steptipjs/steptip.css">
 </head>
 ```
 
